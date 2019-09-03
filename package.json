@@ -53,7 +53,7 @@
     "babel-register": "^6.26.0",
     "easy-sauce": "^0.4.2",
     "eslint": "^5.4.0",
-    "eslint-config-google": "^0.9.1",
+    "eslint-config-google": "^0.14.0",
     "esm": "^3.0.77",
     "express": "^4.16.3",
     "gulp": "^4.0.0",
